@@ -4,7 +4,7 @@ Name = "TF-Server"
 }
 
 ami = "ami-0953476d60561c955"
-instance_type = "t2.micro"
+instance_type = "t3.micro"
 key_name = "docker-sg"
 availability_zone = "us-east-1a"
 
